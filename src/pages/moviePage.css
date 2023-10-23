@@ -1,0 +1,53 @@
+.movie-details {
+  margin-top: 1rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  max-width: 1200px;
+  padding: 0.1rem;
+  border: 2px solid lightgray;
+  border-radius: 20px;
+  background-color: black;
+  color: lightgray;
+}
+
+.movie-details p {
+  text-align: left;
+  margin-left: 10px;
+}
+
+a {
+  color: red;
+  text-decoration: none;
+}
+
+a:hover {
+  color: plum;
+}
+
+button {
+  margin: 1rem;
+  font-size: 1rem;
+}
+
+button:hover {
+  background-color: lightseagreen;
+  cursor: pointer;
+}
+
+.more-info {
+  display: flex;
+  justify-content: space-between;
+}
+
+.more-info div {
+  text-align: left;
+  margin-left: 1rem;
+}
+
+.number-info,
+.production-companies,
+.casts,
+.crews {
+  margin-top: 0.5rem;
+}

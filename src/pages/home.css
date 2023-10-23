@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  background-color: rgb(47, 47, 134);
+  color: white;
+  font-family: Helvetica, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  font-size: 4vh;
+  text-align: center;
+  color: lightcyan;
+}
+
+.query {
+  width: 30vw;
+  font-size: 2vh;
+  margin: 0;
+}
+
+.search {
+  font-size: 2vh;
+  cursor: pointer;
+  margin: 0;
+}
+
+.favourites {
+  font-size: 2vh;
+  margin: 0;
+}
